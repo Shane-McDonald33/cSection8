@@ -1,0 +1,4 @@
+/Users/shanemcdonald/Documents/Section8/Challenge/main.cpp
+/Users/shanemcdonald/Documents/Section8/IncrementAndDecrement/main.cpp
+/Users/shanemcdonald/Documents/Section8/EuroConversion/main.cpp
+/Users/shanemcdonald/Documents/Section8/ExpressionsAndStatements/main.cpp

@@ -1,0 +1,6 @@
+/Users/shanemcdonald/Documents/Section6/Section6Challenge/main.cpp
+/Users/shanemcdonald/Documents/Section6/Section6/main.cpp
+/Users/shanemcdonald/Documents/Section6/Constants/main.cpp
+/Users/shanemcdonald/Documents/Section6/SizeOfOperator/main.cpp
+/Users/shanemcdonald/Documents/Section6/PrimitiveData/main.cpp
+/Users/shanemcdonald/Documents/Section6/InitializingVariables/main.cpp
